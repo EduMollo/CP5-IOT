@@ -167,3 +167,11 @@ Novas demonstrações geram relatórios em `resultados/`. O histórico da opera�
 | `pyproject.toml` e `conftest.py` | Configuração dos testes |
 
 Referências: [SDK MCP](https://github.com/modelcontextprotocol/python-sdk/tree/v1.x), [Paho MQTT](https://eclipse.dev/paho/clients/python/docs/), [aMQTT](https://amqtt.readthedocs.io/en/latest/references/broker/), [Telegram Bot API](https://core.telegram.org/bots/api).
+
+## Integrantes
+
+| Nome | RM |
+|---|---|
+| `Eduardo Novaes Mollo` | RM: 561515 |
+| `Mathaus Victor Souza Marcelino` | RM: 564146 |
+| `Carlos Alberto Guedes Neto` | RM: 566022 |
