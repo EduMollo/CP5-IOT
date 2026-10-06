@@ -1,0 +1,10 @@
+{
+  "id_maquina": "MOTOR_01",
+  "temperatura": 70,
+  "vibracao": 4,
+  "tensao": 220,
+  "corrente": 18.5,
+  "fator_potencia": 0.62,
+  "taxa_producao": 42,
+  "taxa_producao_esperada": 60
+}
